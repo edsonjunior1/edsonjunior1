@@ -10,10 +10,9 @@ I like to think i'm a FullStack :computer:
 - 👯 I’m looking to collaborate in web projects, to increase my knowledge. 
 - 🤔 I’m looking for help with all the programming languages i've been learning. 
 - 💬 Ask me about anything, I want to help you in any way I can.
-- 📫 How to reach me: Use edson.ascendinojr@gmail.com to contact me.
 - ⚡ Fun fact: We speak Portuguese in Brazil, not Spanish :joy:
 -->
-
+###
 <a target="_blank" href="https://www.linkedin.com/in/edson-ascendino-b3b3b736/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
