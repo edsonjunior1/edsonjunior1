@@ -1,5 +1,5 @@
 ### Hello 👋
-
+![EdsonAscendino GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsoninforio&show_icons=true)
 # Edson Ascendino
 I'm a student of computer science in Brazil and working as trainee programmer :baby:.
 I like to think i'm a FullStack :computer:
