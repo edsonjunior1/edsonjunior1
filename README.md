@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edsonjunior1&label=Profile%20views&color=0e75b6&style=flat" alt="edsonjunior1" /> </p>
 
-- 🔭 I’m currently working in **ITERIS**
+- 🔭 Software Engineer at **@ITERIS**
 
-- 🌱 I’m currently learning **Angular, React, JavaScript, Typescript, C#, .NET, MongoDB**
+- 🌱 **Angular, React, JavaScript, Typescript, C#, .NET, MongoDB**
 
 - 👨‍💻 All of my projects are available at [here!!](here!!)
 
