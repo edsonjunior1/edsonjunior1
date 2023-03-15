@@ -5,7 +5,7 @@
 
 - 🔭 Software Engineer at **@ITERIS**
 
-- 🌱 **Angular, React, Typescript,NgRx,RxJs, C#, .NET, MongoDB, Oracle, PostgreSQL**
+- 🌱 **Angular, React, Typescript, NgRx, RxJs, C#, .NET, MongoDB, Oracle, PostgreSQL**
 
 - 📫 How to reach me **edson.ascendinojr@gmail.com**
 
